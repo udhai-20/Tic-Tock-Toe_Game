@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+
+}
+
+body {
+  margin: 0;
+  background-color: #efefef;
+}
+
+.heading {
+  display: flex;
+  align-Items: center;
+  justify-Content: center;
+  color: rgb(255, 155, 185);
+  font-Family: sans-serif;
+  margin-Bottom: -30px;
+}
